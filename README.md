@@ -1,4 +1,4 @@
-# Atendechat
+# ChatbotPower
 
 O Atendechat é uma empresa distribuidora de White Label que possui uma solução de atendimentos via Whatsapp que aumenta a produtividade e organização das equipes
 
@@ -13,8 +13,7 @@ O backend é feito em Express e possui toda a estrutura organizada dentro dessa 
 
 A pasta de instalador dentro dessa repositório é uma cópia do instalador usado para que os clientes de sistemas possam fazer o clone dentro da pasta home de seus servidores e seguirem com a instalação automática de todas as dependências do projeto
 
-Link para o repositório do instalador atualizado:
-- [Instalador](https://github.com/atendechat-org/instalador)
+
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
@@ -175,9 +174,3 @@ pm2 save
 Versão 1.0.0
 
 ## 📄 Licença
-
-Este projeto está sob a licença
-
-⌨️ com ❤️ por [Atendechat](https://atendechat.com) 😊
-
-Todos os direitos reservados a https://atendechat.com
